@@ -7,3 +7,4 @@ O projeto organiza móveis relacionados e força a criação dos objetos atravé
 * Dart `null safety`
 * Versão Flutter: `3.3.7`
 * Abstract Factory
+* Testes Unitários
